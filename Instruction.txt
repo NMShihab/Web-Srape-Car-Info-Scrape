@@ -1,0 +1,11 @@
+Download chrome Driver from : https://chromedriver.chromium.org/downloads
+
+In CarScrapy.py file "PATH" set to your chrome driver location
+
+install python latests version
+
+If possible create a virtual environment
+
+Then run this command "pip install -r requirements.txt"
+
+Then run python file using : python CarScrapy.py
